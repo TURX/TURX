@@ -1,3 +1,4 @@
+<div id="hide">
 <style>
 	#title {
 		font-size: 2em;
@@ -11,7 +12,11 @@
 	img {
 		display: inline-block;
 	}
+	#hide {
+		display: none;
+	}
 </style>
+</div>
 
 ## TURX
 
