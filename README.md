@@ -1,23 +1,3 @@
-<div id="hide">
-<style>
-	#title {
-		font-size: 2em;
-		display: inline;
-	}
-	#cards {
-		display: flex;
-		align-content: flex-start;
-		flex-flow: row wrap;
-	}
-	img {
-		display: inline-block;
-	}
-	#hide {
-		display: none;
-	}
-</style>
-</div>
-
 ## TURX
 
 - 🏫 B.S. in Computer Sciences, Mathematics, Data Science, Statistics, Japanese '25 @ University of Wisconsin-Madison
@@ -25,7 +5,7 @@
 - ✉️ Telegram: [@AruEkusu](https://t.me/AruEkusu)
 - 🌏 Languages: Chinese, English, Japanese
 
-<div id="cards">
+<div style="display: flex; align-content: flex-start; flex-flow: row wrap;">
 	<img alt="TURX's GitHub Stats" src="https://raw.githubusercontent.com/TURX/github-stats/master/generated/overview.svg">
 	<img alt="Languages" src="https://raw.githubusercontent.com/TURX/github-stats/master/generated/languages.svg">
 </div>
