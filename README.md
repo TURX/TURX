@@ -1,9 +1,12 @@
 ## TURX
 
 - 🏫 B.S. in Computer Sciences, Mathematics, Data Science, Statistics, Japanese '25 @ University of Wisconsin-Madison
+- 💭 Software Developer Engineer Intern @ [Textea](https://textea.co), Open Source Developer @ [KDE](https://invent.kde.org/ruixuantu)
 - 🏠 Homepage: https://turx.asia
-- ✉️ Telegram: [@AruEkusu](https://t.me/AruEkusu)
-- 🌏 Languages: Chinese, English, Japanese
+- 📬 Telegram: [@AruEkusu](https://t.me/AruEkusu)
+- 🌏 Languages: Chinese 中文, Japanese 日本語, English
+
+📊 Statistics
 
 <div style="display: flex; align-content: flex-start; flex-flow: row wrap;">
 	<img alt="TURX's GitHub Stats" src="https://raw.githubusercontent.com/TURX/github-stats/master/generated/overview.svg">
@@ -13,7 +16,7 @@
 
 ## 📚 Courses at UW-Madison
 
-Fall 2021: COMP SCI 300 (Programming I), COMP SCI 240 (Intro to Discrete Mathematics), COMP SCI 252 (Intro to Computer Engineering), ASIALANG 451 (Advanced Readings Japanese), COUN PSY 225 (Intersectionalities), ESL 117 (Academic Writing I)
+Fall 2021: COMP SCI 300 (Programming II), COMP SCI 240 (Intro to Discrete Mathematics), COMP SCI 252 (Intro to Computer Engineering), ASIALANG 451 (Advanced Readings Japanese), COUN PSY 225 (Intersectionalities), ESL 117 (Academic Writing I)
 
 Spring 2022: COMP SCI 540 (Intro to Artificial Intelligence), COMP SCI 400 (Programming III), COMP SCI 354 (Machine Organization and Progrmming), MATH 341 (Linear Algebra Honors), MATH 431 (Intro to Theory of Probability), ASIALANG 377 (Business Japanese Communication)
 
