@@ -22,4 +22,4 @@ Spring 2022: COMP SCI 540 (Intro-Artificial Intelligence), COMP SCI 400 (Program
 
 Summer 2022: MATH 475 (Intro-Combinatorics), STAT 240 (Data Science Modeling I), STAT 303 (R for Statistics I), COMP SCI 403 (Internship Class CS & Data Sci)
 
-Fall 2022: COMP SCI 577 (Intro-Algorithms Honors), COMP SCI 537 (Intro-Operating Systems), COMP SCI 538 (Theory & Design-Programming Languages), COMP SCI 564 (Database Management Systems), MATH 521 (Analysis I Honors)
+Fall 2022: COMP SCI 577 (Intro-Algorithms Honors), COMP SCI 537 (Intro-Operating Systems), COMP SCI 564 (Database Management Systems), MATH 521 (Analysis I Honors), ASIALANG 313 (Classical Japanese)
