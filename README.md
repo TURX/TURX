@@ -1,11 +1,11 @@
 ## TURX
 
 - 🏫 B.S. in Computer Sciences, Mathematics (Honors), Data Science, Statistics, Japanese '25 @ University of Wisconsin-Madison
-- 💭 Software Developer Engineer Intern @ [Textea](https://textea.co), Open Source Developer @ [KDE](https://invent.kde.org/ruixuantu), Peer Mentor - COMP SCI 540 @ UW-Madison
+- 💭 Ex-Software Developer Engineer Intern @ [Textea](https://textea.co), Open Source Developer @ [KDE](https://invent.kde.org/ruixuantu), Peer Mentor - COMP SCI 540 @ UW-Madison
 - 🏠 Homepage: https://turx.asia
 - 📬 Telegram: [@AruEkusu](https://t.me/AruEkusu)
 - 🌏 Languages: Chinese 中文, Japanese 日本語, English
-- 🔬 Research: Natural Language Processing, Reinforcement Learning
+- 🔬 Research: Natural Language Processing, Reinforcement Learning, Machine Teaching
 
 📊 Statistics
 
@@ -22,3 +22,4 @@
 - Summer 2022: MATH 475 (Intro-Combinatorics), STAT 240 (Data Science Modeling I), STAT 303 (R for Statistics I), COMP SCI 403 (Internship Class CS & Data Sci)
 - Fall 2022: COMP SCI 577 (Intro-Algorithms Honors), COMP SCI 537 (Intro-Operating Systems), COMP SCI 564 (Database Management Systems), MATH 521 (Analysis I Honors), ASIALANG 313 (Classical Japanese)
 - Spring 2023: COMP SCI 524 (Intro-Optimization), COMP SCI 536 (Intro-Programming Languages & Compilers), MATH 522 (Analysis II Honors), MATH 541 (Modern Algebra I Honors), STAT 340 (Data Science Modeling II), ASIAN 573 (Readings in Classical Japanese Literature: The Tale of Genji)
+- Summer 2023: COMP SCI 320 (Data Science Programming II), MATH 632 (Intro-Stochastic Processes), MATH 525 (Linear Optimization)
