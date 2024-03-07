@@ -1,10 +1,10 @@
 ## TURX
 
-- 🏫 B.S. in Computer Sciences, Mathematics (Honors), Data Science, Statistics, Japanese '25 @ University of Wisconsin-Madison
+- 🏫 B.S. in Computer Sciences (Honors), Mathematics (Honors), Data Science, Statistics, Japanese '25 @ University of Wisconsin-Madison
 - 💭 Ex-Software Developer Engineer Intern @ [Textea](https://textea.co), Open Source Developer @ [KDE](https://invent.kde.org/ruixuantu), Peer Mentor - COMP SCI 540 @ UW-Madison
 - 🏠 Homepage: https://turx.asia (日本語: https://turx.tokyo)
 - 🌏 Languages: Chinese 中文, Japanese 日本語, English
-- 🔬 Research: natural language processing, weakly supervised learning, reinforcement learning, optimization
+- 🔬 Research: machine learning including natural language processing, weakly supervised learning, reinforcement learning; open to other related fields
 
 📊 Statistics
 
