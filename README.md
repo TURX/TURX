@@ -2,7 +2,7 @@
 
 - 🏫 B.S. in Computer Sciences (Honors), Mathematics (Honors), Data Science, Statistics, Japanese '25 @ University of Wisconsin--Madison
 - 💭 Ex-Software Developer Engineer Intern @ [Textea](https://textea.co), Open Source Developer @ [KDE](https://invent.kde.org/ruixuantu), Ex-Peer Mentor - COMP SCI 540 @ UW-Madison
-- 🏠 [[Personal Homepage](https://turx.asia)], [[Adademic Homepage](https://turx.asia/acad)], [[ホームページ](https://turx.tokyo)]
+- 🏠 [[Personal Homepage](https://turx.asia)], [[Academic Homepage](https://turx.asia/acad)], [[ホームページ](https://turx.tokyo)]
 - 🌏 Languages: Chinese 中文, Japanese 日本語, English
 - 🔬 Research: natural language processing and large language models (Human-aligned LLMs, Multilingual NLP, and Computational Linguistics)
 
